@@ -5,3 +5,6 @@ https://github.com/u1273550/Assignments/blob/master/AEA%20Assignment%20Big%20Mac
 
 It is also visible at:
 http://htmlpreview.github.io/?https://github.com/u1273550/Assignments/blob/master/AEA%20Assignment%20Big%20Mac%20Index.html
+
+For the data, we made a new file called 'Project Data'. This folder can be found, clicking on the following link:
+https://github.com/u1273550/ProjectData/blob/master/README.md
